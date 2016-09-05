@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cerebro
+comment1.params=d
+comment1.target=Cerebro(Mundo)
+comment2.params=i\ c
+comment2.target=void\ VerificaCartaVirada(greenfoot.GreenfootImage,\ Carta)
+comment3.params=
+comment3.target=void\ verificaFimDeJogo()
+comment3.text=\r\n\ Verifica\ o\ fim\ do\ jogo\r\n
+comment4.params=
+comment4.target=boolean\ podeDesvirarCarta()
+comment4.text=\r\n\ Verifica\ se\ \u00E9\ poss\u00EDvel\ desvirar\ uma\ carta,\ quando\ n\u00E3o\ h\u00E1\ duas\ cartas\ desviradas.\r\n
+numComments=5

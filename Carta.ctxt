@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Carta
+comment1.params=imagem\ c
+comment1.target=Carta(ListaImagens,\ Cerebro)
+comment1.text=\r\n\ Construtor\ da\ classe\ Carta\r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ getStatusDaCarta()
+comment3.params=
+comment3.target=void\ reiniciarCarta()
+comment3.text=\r\n\ Troca\ a\ imagem\ da\ carta\ para\ jogar\ novamente\r\n
+comment4.params=
+comment4.target=void\ virarCarta()
+comment4.text=\r\n\ Mostra\ a\ imagem\ da\ carta\r\n
+comment5.params=
+comment5.target=void\ desvirarCarta()
+comment5.text=\r\n\ Desvira\ a\ carta\ mostrando\ as\ costas\ da\ carta\r\n
+comment6.params=
+comment6.target=void\ removerCarta()
+comment6.text=\r\n\ Remove\ a\ carta\ ap\u00F3s\ ela\ ser\ descoberta\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Act\ -\ do\ whatever\ the\ Carta\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=8

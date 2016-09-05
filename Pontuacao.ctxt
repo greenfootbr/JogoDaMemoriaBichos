@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pontuacao
+comment1.params=w
+comment1.target=Pontuacao(Mundo)
+comment2.params=pontuacao
+comment2.target=void\ setPontuacao(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
